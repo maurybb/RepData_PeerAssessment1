@@ -273,5 +273,4 @@ xyplot(avgSteps$meanOfSteps ~ avgSteps$interval | avgSteps$weekdays,
        layout = c(1, 2), type = "l", 
        xlab = "Interval", ylab = "Number of steps")
 ```
-
 ![plot of chunk unnamed-chunk-15](figure/unnamed-chunk-15.png)
