@@ -1,6 +1,8 @@
-
-
-
+---
+title: "Peer Assessment 1"
+author: "Mauricio Bueno"
+output: html_document
+---
 
 ### Basic settings
 
